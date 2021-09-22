@@ -1,20 +1,11 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Nome da aula
+# Efeitos
 
 ## Exercícios de classe 🏫
-
-1. Exercício 1
-
-## Exercícios de casa 🏠
-2. Exercício 2
-
-## Exercícios extra 🌟
-3. Exercício 3
+1. Consulta de países
 
 ---
-
-# VERIFICAR CHECKLIST E TAGS
 
 Preencha a checklist para fazer os exercícios:
 
@@ -23,4 +14,4 @@ Preencha a checklist para fazer os exercícios:
 -   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
 -   [ ] Copiar a url do seu fork e enviar na plataforma
 
-###### tags: 
+###### tags: `módulo 3` `front-end` `React`
