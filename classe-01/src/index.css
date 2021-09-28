@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  color: white;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+}
+
+input {
+  all: unset;
+  border: 1px solid white;
+  border-radius: 4px;
+  margin: 20px auto;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  width: 400px;
+  height: 400px;
+  background-image: linear-gradient(to right, #ffffff50, #0000ff50, #ffffff50);
+  border-radius: 12px;
+  border: 2px solid #80808080;
+
+}
+
+.display {
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.flag{
+  max-width: 300px;
+}
