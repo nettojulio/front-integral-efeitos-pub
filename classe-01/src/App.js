@@ -19,6 +19,7 @@ function App() {
   useEffect(() => {
     const search = paises.filter(pais => pais.name.common.toLowerCase().includes(country.toLowerCase()));
     (search && country) ? setScreen(search) : setScreen(paises);
+    // eslint-disable-next-line
   }, [country])
 
   return (
